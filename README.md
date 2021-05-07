@@ -20,3 +20,7 @@ As a final evaluation of my game, I would say that I am not overly happy with ho
 
 References:
 ‘Free 2D Mega Pack’ made by Brackeys version 1.0 purchased from the Unity Asset Store.
+
+itch.io link:
+https://nebula-99.itch.io/
+password to access game: visiongame
